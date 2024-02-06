@@ -1,1 +1,1 @@
-https://runfinch.com/docs/getting-started/installation/
+https://runfinch.com/
