@@ -1,0 +1,4 @@
+services:
+  hello-finch:
+    image: hello-finch
+    build: .

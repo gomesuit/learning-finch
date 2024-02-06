@@ -16,3 +16,9 @@ build:
 
 images:
 	finch image list
+
+compose-build:
+	finch compose build
+
+compose-up:
+	finch compose up
