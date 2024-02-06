@@ -22,3 +22,12 @@ compose-build:
 
 compose-up:
 	finch compose up
+
+vm-start:
+	finch vm start
+
+vm-stop:
+	finch vm stop
+
+vm-remove:
+	finch vm remove
